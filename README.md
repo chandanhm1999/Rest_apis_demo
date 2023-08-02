@@ -1,5 +1,5 @@
 ﻿# Rest_apis_demo
 
-* one - api simple 
-* seconds - api HTTP POST Requests
-* third
+* 1 - api simple 
+* 2 - api HTTP POST Requests
+* 3 - Joi Validation using Post metod to post the data validation!
