@@ -3,5 +3,5 @@
 * 1 - api simple 
 * 2 - api HTTP POST Requests!
 * 3 - Joi Validation using Post metod to post the data validation!
-* 4 - jwt_example.js Jwt web ton creating!!!
+* 4 - jwt_example.js Jwt web ton creating!!
 * 
